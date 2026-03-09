@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f8867f-6303-4e51-a670-42e04a32078c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase6PalindromeCheckerApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="88f8867f-6303-4e51-a670-42e04a32078c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +23,12 @@
     &quot;assignee&quot;: &quot;afdalvc&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Vidush1224/PalindromeCheckerApp.git&quot;,
-    &quot;accountId&quot;: &quot;d7857259-897e-401f-9f05-61240f3a0117&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/10utkarsh/PalindromeChecker.git",
+    "accountId": "60eed5ec-6a51-4882-a707-1228e5ca2b71"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -54,15 +52,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC6-Queue-and-Stack-based-Palindrome-Check",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Admin/Documents/B2P2-RA2411003011841/PalindromeCheckerApp/src/Main.java"
+    "last_opened_file_path": "C:/Users/Admin/Downloads/PalindromeChecker-main/PalindromeChecker-main",
+    "onboarding.tips.debug.path": "C:/Users/Admin/Documents/B2P2-RA2411003011841/PalindromeCheckerApp/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -73,8 +75,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771299072916</updated>
+      <workItem from="1773049237013" duration="523000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
