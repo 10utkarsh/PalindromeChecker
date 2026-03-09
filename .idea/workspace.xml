@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f8867f-6303-4e51-a670-42e04a32078c" name="Changes" comment="" />
+    <list default="true" id="88f8867f-6303-4e51-a670-42e04a32078c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature/UC3",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Downloads/PalindromeChecker-main/PalindromeChecker-main",
     "onboarding.tips.debug.path": "C:/Users/Admin/Documents/B2P2-RA2411003011841/PalindromeCheckerApp/src/Main.java",
@@ -75,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771299072916</updated>
-      <workItem from="1773049237013" duration="523000" />
+      <workItem from="1773049237013" duration="1119000" />
     </task>
     <servers />
   </component>
